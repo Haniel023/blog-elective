@@ -1,7 +1,6 @@
 {
   "name": "elective",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "homepage": "https://github.io/Haniel023/blog-elective",
   "dependencies": {
@@ -20,5 +19,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Haniel023/blog-elective/issues"
-  }
+  },
+  "description": ""
 }
