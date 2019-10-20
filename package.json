@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.io/Haniel023/blog-elective",
   "dependencies": {
     "gh-pages": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Haniel023/blog-elective/issues"
-  },
-  "homepage": "https://github.com/Haniel023/blog-elective#readme"
+  }
 }
